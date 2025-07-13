@@ -1,5 +1,9 @@
 Hello, My Name is Teddy and i am a Computer Science student currently studying at Portsmouth University.
-I am currently aiming to pursue a career in being a software developer or fullstack devloper
+
+
+I am currently aiming to pursue a career in being a software developer or fullstack devloper.
+
+
 My current learning is dedicated to Javascript, Node.js 
 
 
