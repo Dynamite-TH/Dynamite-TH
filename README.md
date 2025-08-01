@@ -35,9 +35,11 @@
 
 Feel free to reach out or check out my work:
 
-- 🌐 [Email](tedhayward55@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(optional)*
+- 🌐 Email: tedhayward55@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/) 
 
 ---
 
 Thanks for stopping by!
+
+![Profile views](https://komarev.com/ghpvc/?username=teddy-dev&color=blue)
