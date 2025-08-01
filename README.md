@@ -42,4 +42,3 @@ Feel free to reach out or check out my work:
 
 Thanks for stopping by!
 
-![Profile views](https://komarev.com/ghpvc/?username=teddy-dev&color=blue)
