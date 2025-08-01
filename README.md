@@ -36,7 +36,7 @@
 Feel free to reach out or check out my work:
 
 - 🌐 Email: tedhayward55@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/) 
+- 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/edward-hayward-331800366/)) 
 
 ---
 
