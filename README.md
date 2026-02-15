@@ -40,5 +40,3 @@ Feel free to reach out or check out my work:
 
 ---
 
-Thanks for stopping by!
-
