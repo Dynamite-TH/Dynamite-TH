@@ -2,7 +2,7 @@
 
 I'm an aspiring programmer currently pursuing a **BSc in Computer Science** at **Portsmouth University**, UK.
 
-I'm passionate about building, learning, and experimenting with technology — especially in the realms of **web development** and **software engineering**.
+I'm passionate about building, learning, and experimenting with technology — especially in the realms of **Backend Development** 
 
 ---
 
