@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm Teddy!
+# Hi there, I'm Teddy!
 
-🎓 I'm an aspiring programmer currently pursuing a **BSc in Computer Science** at **Portsmouth University**, UK.
+I'm an aspiring programmer currently pursuing a **BSc in Computer Science** at **Portsmouth University**, UK.
 
-💻 I'm passionate about building, learning, and experimenting with technology — especially in the realms of **web development** and **software engineering**.
+I'm passionate about building, learning, and experimenting with technology — especially in the realms of **web development** and **software engineering**.
 
 ---
 
-## 🛠️ Technologies I Use
+## Technologies I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
@@ -16,15 +16,20 @@
 </p>
 
 ---
+## Projects in Development
+- <a href="url">Realtime Performance Tracker</a>
+-- A simple system to track system statistics e.g. Memory usage, CPU usage
 
-## 🌱 What I'm Currently Learning
+---
+
+## What I'm Currently Learning
 - Advanced data structures and algorithms  
 - Backend architecture and API development  
 - DevOps fundamentals
 
 ---
 
-## 📈 Goals
+## Goals
 - Build scalable and efficient applications  
 - Contribute to open-source projects  
 - Land a junior developer role after graduation
