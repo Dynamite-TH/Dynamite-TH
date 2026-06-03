@@ -17,8 +17,7 @@ I'm passionate about building, learning, and experimenting with technology — e
 
 ---
 ## Projects in Development
-- <a href="url">Realtime Performance Tracker</a>
--- A simple system to track system statistics e.g. Memory usage, CPU usage
+- <a href="https://github.com/Dynamite-TH/realtime-performance-tracker">Realtime Performance Tracker</a> - A simple system to track system statistics e.g. Memory usage, CPU usage
 
 ---
 
